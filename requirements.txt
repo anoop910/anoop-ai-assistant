@@ -1,0 +1,8 @@
+langchain-text-splitters
+langchain-core
+groq
+dotenv
+fastapi
+uvicorn
+qdrant_client
+openai

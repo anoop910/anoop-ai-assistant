@@ -1,0 +1,1011 @@
+================================================================================
+Chunk No: 1
+{'Header 1': 'Personal Knowledge Base'}
+## Basic Information
+- Name: Anoop Kumar
+- Current Role: Full Stack Java Developer & AI Developer
+- Location: Jharkhand, India 825318
+- Email: anoop91098@gmail.com
+- Phone: +91 9102543418, +91 7491844380
+- Highest Qualification: B.Tech in Computer Science and Engineering
+- Career Goal: Build scalable backend systems and AI-powered applications.
+================================================================================
+Chunk No: 2
+{'Header 1': 'Professional Summary'}
+I am a software developer specializing in Java, Spring Boot, FastAPI, Python, React, and SQL. I enjoy building backend systems, REST APIs, AI-powered applications, and scalable software architectures. My interests include Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), semantic search, backend engineering, and intelligent automation.
+================================================================================
+Chunk No: 3
+{'Header 1': 'Education'}
+## B.Tech in Computer Science and Engineering
+- K K College of Engineering & Management
+- Jharkhand University of Technology
+- 2023–2026
+- CGPA: 7.56/10
+- Studied DSA, OS, DBMS, CN, Software Engineering and built multiple software projects.  
+## Diploma in Mechanical Engineering
+- Government Polytechnic Nirsa
+- 2020–2023
+- Percentage: 73.81 %
+- Built strong analytical and problem-solving skills.
+================================================================================
+Chunk No: 4
+{'Header 1': 'Experience'}
+## Spring Boot Developer Intern — Aeronspire
+- June 2025 – July 2025
+- Developed REST APIs using Spring Boot.
+- Used Spring Security, JWT, Spring Data JPA, MySQL, Maven, Git, and Postman.
+- Improved backend performance, fixed bugs, and collaborated with team members.
+================================================================================
+Chunk No: 5
+{'Header 1': 'Projects'}
+## InfiniStream - Telegram Video Uploading and Streaming System
+- InfiniStream is a full-stack video upload and streaming platform that stores video chunks in Telegram instead of traditional cloud storage. The backend is built with Spring Boot, while the frontend is developed using React. The system supports large file uploads, metadata management, authentication, and progressive video streaming.  
+## ResumeIQ - AI-Powered Resume Screening System
+- ResumeIQ is an AI-powered resume analysis and job matching application developed using Python. The application automatically extracts information from resumes, analyzes job descriptions, compares candidate skills with job requirements, and generates an intelligent match score with detailed feedback  
+## EnquiryManagement - Student Enquiry Management System
+- EnquiryManagement is a full-stack web application built using Spring Boot and Thymeleaf that helps educational institutions manage student enquiries. The application allows users to create, view, update, and delete student enquiries, track enquiry status, and send email notifications to students. It also provides a dashboard for monitoring enquiry statistics and generating reports.  
+## EmailSendToHR - Personalized Job Application Email Sender
+- EmailSendToHR is a full-stack web application built using Spring Boot and React that helps job seekers send personalized job application emails to HR professionals. The application allows users to create reusable email templates, manage template content, and send customized emails through a simple web interface.
+================================================================================
+Chunk No: 6
+{'Header 1': 'Technical Skills'}
+## Languages
+Java, Python, JavaScript, SQL  
+## Backend
+Spring Boot, FastAPI, Spring Security, Spring Data JPA, REST APIs, JWT, Maven  
+## Frontend
+React, HTML, CSS, Tailwind CSS, Axios  
+## Databases
+MySQL, SQLite, SQL Database Design  
+## AI
+RAG, LLMs, Prompt Engineering, Resume Parsing, Semantic Search, AI Chatbots, Embedding Search, Sentence Transformers, FAISS, Docling  
+## Tools
+Git, GitHub, Postman, VS Code, IntelliJ IDEA, PyCharm  
+## APIs
+Telegram Bot API, REST APIs, JSON, File Upload APIs  
+## Software Engineering
+OOP, Data Structures & Algorithms, Database Design, Debugging, Clean Code, Modular Architecture  
+## DevOps & Cloud  
+Current practical exposure includes:  
+- Docker
+- Kubernetes
+- AWS
+- Jenkins
+- CI/CD Pipelines
+- Linux
+- SonarQube
+================================================================================
+Chunk No: 7
+{'Header 1': 'Strengths'}
+- Backend Development
+- REST API Design
+- AI Application Development
+- Authentication & Authorization
+- Database Design
+- Software Architecture
+- Problem Solving
+- Team Collaboration
+- Self Learning
+- Communication
+================================================================================
+Chunk No: 8
+{'Header 1': 'Currently Learning'}
+LangGraph, LlamaIndex, Qdrant, Redis, Docker, Kubernetes, Cloud Deployment, AI Agent Development.
+================================================================================
+Chunk No: 9
+{'Header 1': 'Areas of Interest'}
+Artificial Intelligence, Generative AI, Backend Engineering, Distributed Systems, Software Architecture, Vector Databases, Cloud Deployment, Intelligent Automation.
+================================================================================
+Chunk No: 10
+{'Header 1': 'Working Style'}
+- Prefer clean, modular code.
+- Learn by building practical projects.
+- Focus on system architecture.
+- Continuously improve software based on feedback.
+================================================================================
+Chunk No: 11
+{'Header 1': 'Engineering Experience'}
+While building production-scale backend applications I have worked with:  
+- Multi-threaded task execution
+- ExecutorService
+- Producer-consumer architecture
+- Queue-based processing
+- HTTP clients using Spring WebClient
+- Fault-tolerant retry mechanisms
+- Timeout handling
+- Race condition debugging
+- Thread-safe programming
+- Memory optimization
+- Database optimization using JPQL bulk updates
+- External API integration
+- Log analysis
+================================================================================
+Chunk No: 12
+{'Header 1': 'Introduction'}
+I am Anoop Kumar, a Full Stack Java Developer and AI enthusiast with experience building backend applications using Spring Boot and FastAPI. I enjoy creating scalable software and AI-powered solutions such as resume screening systems and intelligent chat assistants. My interests include backend engineering, RAG, LLMs, and software architecture. I continuously learn new technologies by building practical projects and enjoy solving real-world engineering challenges.
+================================================================================
+Chunk No: 1
+{'Header 1': 'EmailSendToHR'}
+## Project Summary  
+EmailSendToHR is a full-stack web application built using Spring Boot and React that helps job seekers send personalized job application emails to HR professionals. The application allows users to create reusable email templates, manage template content, and send customized emails through a simple web interface.  
+---
+================================================================================
+Chunk No: 2
+{'Header 1': 'EmailSendToHR Problem Statement'}
+EmailSendToHR was developed to simplify the repetitive process of sending job application emails to multiple HR professionals. Instead of manually writing the same email repeatedly, the application enables users to create reusable templates and send professional emails more efficiently.  
+---
+================================================================================
+Chunk No: 3
+{'Header 1': 'EmailSendToHR My Responsibilities'}
+## Backend  
+For the EmailSendToHR backend, I was responsible for:  
+- Designing REST APIs using Spring Boot.
+- Managing email templates.
+- Developing email sending services.
+- Designing database entities.
+- Implementing CRUD operations.
+- Configuring application properties.
+- Managing repositories and service layer.
+- Organizing the backend using layered architecture.  
+## Frontend  
+For the EmailSendToHR frontend, I was responsible for:  
+- Building the React application.
+- Designing template management pages.
+- Creating email sending forms.
+- Developing reusable UI components.
+- Integrating frontend with backend APIs.
+- Managing routing and navigation.
+- Creating responsive pages.  
+---
+================================================================================
+Chunk No: 4
+{'Header 1': 'EmailSendToHR Technology Stack'}
+EmailSendToHR is developed using the following technologies.  
+## Backend  
+- Java
+- Spring Boot
+- Spring Data JPA
+- Maven
+- REST APIs
+- JavaMail API  
+## Frontend  
+- React
+- Axios
+- React Router
+- HTML
+- CSS
+- Vite  
+## Database  
+- JPA-supported relational database  
+---
+================================================================================
+Chunk No: 5
+{'Header 1': 'EmailSendToHR System Architecture'}
+EmailSendToHR follows a layered architecture.  
+React Frontend  
+↓  
+REST APIs  
+↓  
+Spring Boot Backend  
+↓  
+Service Layer  
+↓  
+Repository Layer  
+↓  
+Database  
+---
+================================================================================
+Chunk No: 6
+{'Header 1': 'EmailSendToHR Application Workflow'}
+The EmailSendToHR workflow consists of:  
+1. User creates or edits an email template.
+2. Template is stored in the database.
+3. User selects a template.
+4. User enters recipient information.
+5. Frontend sends a request to the backend.
+6. Backend processes the request.
+7. Email service sends the email.
+8. Response is returned to the frontend.  
+---
+================================================================================
+Chunk No: 7
+{'Header 1': 'EmailSendToHR Major Features'}
+EmailSendToHR provides the following features:  
+- Email template management
+- Create templates
+- Edit templates
+- Delete templates
+- Send emails
+- Dashboard interface
+- REST API integration
+- Responsive frontend  
+---
+================================================================================
+Chunk No: 8
+{'Header 1': 'EmailSendToHR Challenges Solved'}
+Developing EmailSendToHR required solving several engineering challenges:  
+- Designing reusable email templates.
+- Managing frontend-backend communication.
+- Structuring layered backend architecture.
+- Organizing reusable React components.
+- Simplifying repetitive email workflows.  
+---
+================================================================================
+Chunk No: 9
+{'Header 1': 'EmailSendToHR What I Learned'}
+Developing EmailSendToHR improved my understanding of:  
+- Spring Boot architecture
+- REST API development
+- React development
+- CRUD application design
+- Layered architecture
+- Component-based frontend development
+- API integration
+- Database management  
+---
+================================================================================
+Chunk No: 10
+{'Header 1': 'EmailSendToHR Future Improvements'}
+The following enhancements are planned for EmailSendToHR:  
+- Authentication and authorization.
+- Rich text email editor.
+- Attachment support.
+- Bulk email sending.
+- Email scheduling.
+- Email tracking.
+- Docker deployment.
+- Cloud deployment.
+- Admin dashboard.
+- Analytics and reporting.  
+---
+================================================================================
+Chunk No: 11
+{'Header 1': 'Business Value'}
+EmailSendToHR reduces the manual effort involved in sending job application emails by allowing users to create reusable templates and automate repetitive email composition. This improves productivity, maintains consistency across applications, and provides a more organized workflow for job seekers.  
+## Technical & Design Interview Questions
+================================================================================
+Chunk No: 12
+{'Header 1': 'Explain the architecture of EmailSendToHR.'}
+EmailSendToHR follows a layered architecture consisting of a React frontend, Spring Boot REST APIs, a service layer, a repository layer, and a relational database. The frontend communicates with the backend through REST APIs, while the backend separates business logic from persistence using services and repositories.  
+---
+================================================================================
+Chunk No: 13
+{'Header 1': 'Why did you choose Spring Boot for EmailSendToHR?'}
+EmailSendToHR uses Spring Boot because it simplifies REST API development, dependency injection, application configuration, and layered architecture. Spring Boot also makes it easier to organize controllers, services, and repositories for a maintainable backend.  
+---
+================================================================================
+Chunk No: 14
+{'Header 1': 'Why did you choose React for the frontend?'}
+EmailSendToHR uses React because it supports reusable UI components, efficient state management, and seamless integration with backend REST APIs. React also makes it easier to build a responsive dashboard for managing templates and sending emails.  
+---
+================================================================================
+Chunk No: 15
+{'Header 1': 'Why separate the frontend and backend?'}
+Separating the frontend and backend allows independent development, testing, and deployment. The React application focuses on user experience, while the Spring Boot backend handles business logic, validation, and data persistence.  
+---
+================================================================================
+Chunk No: 16
+{'Header 1': 'Why use a Service Layer?'}
+The Service Layer in EmailSendToHR contains business logic such as template management and email processing. This keeps controllers lightweight and makes the application easier to maintain and test.  
+---
+================================================================================
+Chunk No: 17
+{'Header 1': 'Why use a Repository Layer?'}
+The Repository Layer abstracts database operations from business logic. EmailSendToHR uses repositories to perform CRUD operations on templates and other entities without exposing database implementation details.  
+---
+================================================================================
+Chunk No: 18
+{'Header 1': 'How does the frontend communicate with the backend?'}
+The React frontend communicates with EmailSendToHR through REST APIs using Axios. Requests are sent over HTTP, and the backend returns JSON responses.  
+---
+================================================================================
+Chunk No: 19
+{'Header 1': 'What design pattern does EmailSendToHR follow?'}
+EmailSendToHR primarily follows:  
+- Layered Architecture
+- MVC (Spring Boot)
+- Repository Pattern
+- Service Layer Pattern
+- Component-Based Architecture (React)  
+---
+================================================================================
+Chunk No: 20
+{'Header 1': 'How is email sending handled?'}
+Based on the project structure, EmailSendToHR contains dedicated backend components responsible for processing email requests before sending them. Controllers receive requests, services coordinate the business logic, and the email functionality is encapsulated within backend services.  
+---
+================================================================================
+Chunk No: 21
+{'Header 1': 'Why store templates in the database?'}
+EmailSendToHR stores templates so users can reuse professional email formats instead of rewriting them for every application. This improves productivity and ensures consistency.  
+---
+================================================================================
+Chunk No: 22
+{'Header 1': 'How would you improve EmailSendToHR?'}
+Possible future improvements include:  
+- Authentication and authorization
+- Rich text editor
+- Email scheduling
+- Attachment support
+- Bulk email sending
+- Delivery status tracking
+- Docker deployment
+- Cloud deployment
+- Monitoring and analytics  
+---
+================================================================================
+Chunk No: 23
+{'Header 1': 'What software engineering principles are demonstrated?'}
+EmailSendToHR demonstrates:  
+- Separation of Concerns
+- Single Responsibility Principle
+- Modular Design
+- Layered Architecture
+- Reusable Components
+- RESTful API Design  
+---
+================================================================================
+Chunk No: 24
+{'Header 1': 'What challenges did you face?'}
+While developing EmailSendToHR, the main challenges included:  
+- Designing reusable email templates
+- Coordinating frontend and backend communication
+- Organizing backend layers cleanly
+- Managing CRUD operations consistently
+- Building reusable React components  
+---
+================================================================================
+Chunk No: 25
+{'Header 1': 'Why is a layered architecture beneficial?'}
+The layered architecture in EmailSendToHR separates presentation, business logic, and persistence. This improves maintainability, readability, scalability, and testing.  
+---
+================================================================================
+Chunk No: 26
+{'Header 1': 'What did this project teach you?'}
+Developing EmailSendToHR strengthened my understanding of:  
+- Spring Boot REST API development
+- React frontend development
+- CRUD application design
+- Layered architecture
+- Service and Repository patterns
+- Frontend-backend integration
+- Software project organization  
+---
+================================================================================
+Chunk No: 1
+{'Header 1': 'EnquiryManagement'}
+## Project Summary  
+EnquiryManagement is a Spring Boot MVC web application designed to help educational institutions manage student enquiries from registration to admission. The application provides secure user authentication, enquiry management, dashboard reporting, course management, email notifications, and search functionality through a centralized web interface.  
+The application follows a layered architecture using Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, and MySQL. It separates presentation, business logic, and database access into dedicated layers to improve maintainability and scalability.  
+---
+================================================================================
+Chunk No: 2
+{'Header 1': 'EnquiryManagement Problem Statement'}
+Educational institutions often manage student enquiries manually using spreadsheets or paper records, making it difficult to track enquiry status, follow up with students, and generate reports.  
+EnquiryManagement digitizes this process by providing a centralized system where authorized users can register, authenticate, manage student enquiries, update enquiry status, search records, and monitor overall enquiry statistics from a dashboard.  
+---
+================================================================================
+Chunk No: 3
+{'Header 1': 'EnquiryManagement Project Objectives'}
+The primary objectives of EnquiryManagement are:  
+- Digitize the student enquiry management process.
+- Reduce manual data management.
+- Maintain centralized student records.
+- Track enquiry status efficiently.
+- Improve communication through email notifications.
+- Provide dashboard-based reporting.
+- Simplify administration using a web interface.  
+---
+================================================================================
+Chunk No: 4
+{'Header 1': 'EnquiryManagement My Responsibilities'}
+## Backend  
+For the EnquiryManagement backend, I was responsible for:  
+- Designing the Spring Boot MVC architecture.
+- Developing REST and MVC controllers.
+- Implementing business logic using service classes.
+- Creating JPA entities and repositories.
+- Managing student enquiry records.
+- Implementing user authentication.
+- Integrating JavaMail for email notifications.
+- Designing DTOs for request and response handling.
+- Connecting the application with MySQL.
+- Implementing form validation.  
+## Frontend  
+For the EnquiryManagement frontend, I was responsible for:  
+- Building server-side rendered pages using Thymeleaf.
+- Creating enquiry management forms.
+- Designing dashboard pages.
+- Building login, signup, and account unlock pages.
+- Displaying enquiry statistics.
+- Implementing responsive user interfaces.  
+---
+================================================================================
+Chunk No: 5
+{'Header 1': 'EnquiryManagement Technology Stack'}
+EnquiryManagement is built using the following technologies.  
+## Backend  
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- Spring Validation
+- JavaMail
+- Maven  
+## Frontend  
+- Thymeleaf
+- HTML
+- CSS
+- Bootstrap (if included by the project)  
+## Database  
+- MySQL  
+## Development Tools  
+- IntelliJ IDEA / VS Code
+- Maven
+- Git  
+---
+================================================================================
+Chunk No: 6
+{'Header 1': 'EnquiryManagement System Architecture'}
+EnquiryManagement follows a layered MVC architecture.  
+User  
+↓  
+Thymeleaf Pages  
+↓  
+Spring MVC Controllers  
+↓  
+Service Layer  
+↓  
+Repository Layer  
+↓  
+MySQL Database  
+Each layer has a dedicated responsibility, making the application easier to maintain and extend.  
+---
+================================================================================
+Chunk No: 7
+{'Header 1': 'EnquiryManagement User Workflow'}
+The primary workflow in EnquiryManagement is:  
+1. User registers an account.
+2. Account activation email is sent.
+3. User unlocks the account.
+4. User logs into the application.
+5. Dashboard displays enquiry statistics.
+6. User creates student enquiries.
+7. User edits or updates enquiry information.
+8. User searches enquiries using filters.
+9. Dashboard reflects updated information.  
+---
+================================================================================
+Chunk No: 8
+{'Header 1': 'EnquiryManagement Major Features'}
+EnquiryManagement provides the following features:  
+- User Registration
+- Account Unlock
+- User Login
+- Dashboard
+- Student Enquiry Management
+- Course Management
+- Enquiry Status Tracking
+- Search and Filter
+- Email Notifications
+- Form Validation
+- CRUD Operations  
+---
+================================================================================
+Chunk No: 9
+{'Header 1': 'EnquiryManagement Database Design'}
+The application manages multiple business entities, including:  
+- User Details
+- Student Enquiries
+- Courses
+- Enquiry Status  
+Spring Data JPA repositories handle persistence while entities represent database tables.  
+---
+================================================================================
+Chunk No: 10
+{'Header 1': 'EnquiryManagement Authentication Workflow'}
+EnquiryManagement authenticates users before allowing access to enquiry management features.  
+The authentication process includes:  
+- User registration
+- Account activation
+- Login validation
+- Session management  
+This ensures only authorized users can access administrative functionality.  
+---
+================================================================================
+Chunk No: 11
+{'Header 1': 'EnquiryManagement Email Notification Workflow'}
+EnquiryManagement integrates JavaMail to automate user communication.  
+Typical email operations include:  
+- Account activation
+- Account unlock
+- User notifications  
+Automating email communication reduces manual administrative work.  
+---
+================================================================================
+Chunk No: 12
+{'Header 1': 'EnquiryManagement Major Features Demonstrated'}
+Developing EnquiryManagement demonstrates experience with:  
+- Spring Boot MVC
+- Spring Data JPA
+- Hibernate ORM
+- Thymeleaf
+- JavaMail Integration
+- DTO Design
+- Layered Architecture
+- Repository Pattern
+- Service Layer Pattern
+- Form Validation
+- Authentication
+- CRUD Development  
+---
+================================================================================
+Chunk No: 13
+{'Header 1': 'EnquiryManagement Challenges Solved'}
+While developing EnquiryManagement, I addressed several engineering challenges:  
+- Designing a clean layered architecture.
+- Managing user authentication.
+- Integrating automated email notifications.
+- Organizing DTOs and entities.
+- Maintaining entity relationships.
+- Implementing reusable CRUD operations.
+- Building dashboard reporting.
+- Implementing enquiry search functionality.  
+---
+================================================================================
+Chunk No: 14
+{'Header 1': 'EnquiryManagement What I Learned'}
+Developing EnquiryManagement improved my understanding of:  
+- Spring Boot MVC architecture.
+- Spring Data JPA.
+- Hibernate ORM.
+- Thymeleaf template engine.
+- JavaMail API.
+- Repository Pattern.
+- Service Layer Pattern.
+- DTO-based application design.
+- Form validation.
+- Authentication workflow.
+- CRUD application development.  
+---
+================================================================================
+Chunk No: 15
+{'Header 1': 'EnquiryManagement Future Improvements'}
+The following improvements are planned for EnquiryManagement:  
+- JWT-based authentication.
+- Role-based authorization.
+- React frontend.
+- REST API version.
+- Docker deployment.
+- Kubernetes deployment.
+- Redis caching.
+- Audit logging.
+- Notification service.
+- Cloud deployment.
+- Analytics dashboard.  
+---
+================================================================================
+Chunk No: 1
+{'Header 1': 'InfiniStream'}
+## Project Summary  
+InfiniStream is a full-stack video upload and streaming platform that stores video chunks in Telegram instead of traditional cloud storage. The backend is built with Spring Boot, while the frontend is developed using React. The system supports large file uploads, metadata management, authentication, and progressive video streaming.  
+---
+================================================================================
+Chunk No: 2
+{'Header 1': 'InfiniStream Problem Statement'}
+Large video storage can become expensive when using traditional cloud storage solutions. I wanted to build a system that separates metadata management from binary storage and explore Telegram as an alternative storage provider while maintaining a clean backend architecture.  
+---
+================================================================================
+Chunk No: 3
+{'Header 1': 'InfiniStream components and features'}
+## Backend
+In the InfiniStream backend, I was responsible for:
+- Designed REST APIs using Spring Boot.
+- Built chunk-based upload workflow.
+- Integrated Telegram Bot API.
+- Implemented JWT authentication.
+- Managed metadata using SQLite.
+- Built upload and streaming services.
+- Designed queue-based processing.
+- Implemented retry handling.
+- Created session management.
+- Developed streaming endpoints.  
+## Frontend
+In the InfiniStream frontend, I was responsible for:
+- Built the application using React.
+- Designed upload interface.
+- Implemented video player.
+- Connected frontend with backend APIs.
+- Managed authentication.
+- Displayed upload progress.
+- Implemented responsive UI.  
+---
+================================================================================
+Chunk No: 4
+{'Header 1': 'InfiniStream Technology Stack'}
+InfiniStream is developed using the following technologies.
+## Backend  
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- REST APIs
+- WebClient
+- Maven  
+## Frontend  
+- React
+- Axios
+- React Router
+- HTML
+- CSS  
+## Database
+- MySQL
+- SQLite
+- JPQL  
+## External Services  
+- Telegram Bot API  
+---
+================================================================================
+Chunk No: 5
+{'Header 1': 'InfiniStream System Architecture'}
+InfiniStream follows a layered architecture where the React frontend communicates with the Spring Boot backend through REST APIs. The backend coordinates upload processing, metadata management, and Telegram integration.  
+Frontend (React)  
+↓  
+REST APIs  
+↓  
+Spring Boot Backend  
+↓  
+Upload Service  
+↓  
+Queue Processing  
+↓  
+Telegram Bot API  
+↓  
+Mysql Metadata  
+↓  
+Streaming Service  
+↓  
+Frontend Video Player  
+---
+================================================================================
+Chunk No: 6
+{'Header 1': 'InfiniStream Upload Workflow'}
+The upload workflow in InfiniStream follows these steps:  
+1. User selects a video in the React application.
+2. Frontend sends the upload request.
+3. Backend creates an upload session.
+4. Video is divided into chunks.
+5. Chunks are uploaded to Telegram.
+6. Telegram file identifiers are stored.
+7. Metadata is saved in SQLite.
+8. Upload status is returned to the frontend.  
+---
+================================================================================
+Chunk No: 7
+{'Header 1': 'InfiniStream Streaming Workflow'}
+The streaming workflow in InfiniStream follows these steps:
+1. User opens a video.
+2. React requests video data.
+3. Backend retrieves metadata.
+4. Telegram chunks are downloaded.
+5. Chunks are streamed to the client.
+6. Video plays without requiring local file storage.  
+---
+================================================================================
+Chunk No: 8
+{'Header 1': 'InfiniStream Major Features'}
+The major features implemented in InfiniStream include:
+- Large video upload
+- Chunk-based processing
+- Telegram storage integration
+- Video streaming
+- Metadata management
+- JWT authentication
+- REST APIs
+- Queue-based upload processing
+- Session management
+- Retry handling  
+---
+================================================================================
+Chunk No: 9
+{'Header 1': 'InfiniStream Challenges Solved'}
+While developing InfiniStream, I solved several engineering challenges:
+- Handling large file uploads.
+- Managing upload failures.
+- Integrating Telegram as storage.
+- Tracking upload progress.
+- Coordinating asynchronous processing.
+- Maintaining metadata consistency.  
+---
+================================================================================
+Chunk No: 10
+{'Header 1': 'What I Learned'}
+Developing InfiniStream strengthened my understanding of:
+- Spring Boot architecture
+- REST API design
+- React integration
+- JWT authentication
+- Queue-based processing
+- External API integration
+- Session management
+- Backend optimization
+- Full-stack application development  
+---
+================================================================================
+Chunk No: 11
+{'Header 1': 'Future Improvements'}
+The following enhancements are planned for InfiniStream to improve scalability, performance, and maintainability:  
+- Parallel chunk uploads
+- Redis caching
+- Docker deployment
+- Kubernetes support
+- AWS deployment
+- Monitoring and metrics  
+---
+================================================================================
+Chunk No: 12
+{'Header 1': 'InfiniStream Interview Guide'}
+## Project Introduction (30-Second Answer)  
+When introducing **InfiniStream** during an interview, I describe it as a full-stack video upload and streaming platform built using React and Spring Boot. Instead of storing videos in traditional cloud storage such as AWS S3, InfiniStream uploads video chunks to Telegram using the Telegram Bot API. The backend stores only metadata, including Telegram file identifiers and chunk information, in SQLite. During playback, InfiniStream retrieves the required chunks from Telegram and streams them back to the client.  
+---
+================================================================================
+Chunk No: 13
+{'Header 1': 'Why Did You Build InfiniStream?'}
+I built **InfiniStream** to:  
+- Learn full-stack application development.
+- Understand large file upload workflows.
+- Work with third-party APIs.
+- Improve Spring Boot architecture skills.
+- Explore metadata-driven video streaming.
+- Gain practical experience with React and backend integration.  
+---
+================================================================================
+Chunk No: 14
+{'Header 1': 'Technical Challenges'}
+### Integrating Telegram as Storage  
+One of the biggest technical challenges in **InfiniStream** was integrating Telegram as the storage backend while keeping metadata synchronized in the local database.  
+---  
+### Large Video Uploads  
+InfiniStream required a reliable upload workflow capable of handling large video uploads efficiently instead of relying on a single HTTP request.  
+---  
+### Metadata Management  
+Since InfiniStream stores videos externally, accurate metadata management is essential to identify and reconstruct videos during streaming.  
+---  
+### Frontend and Backend Communication  
+The InfiniStream frontend and backend required well-defined REST APIs to support uploading, metadata retrieval, and video streaming.  
+---
+================================================================================
+Chunk No: 15
+{'Header 1': 'Design Decisions'}
+## Why Spring Boot?  
+InfiniStream uses Spring Boot because it provides dependency injection, REST API support, modular architecture, and simplifies backend development.  
+## Why React?  
+InfiniStream uses React because it enables reusable UI components and efficient communication with backend REST APIs.  
+## Why Telegram?  
+InfiniStream uses Telegram as the external storage platform so that metadata management remains separate from binary file storage. the biggest advantage is that it allows for a free of cost alternative to traditional cloud storage while still providing reliable file storage and retrieval.  
+---  
+---
+================================================================================
+Chunk No: 16
+{'Header 1': 'Limitations'}
+The current implementation of **InfiniStream** could be improved by adding:  
+- Cloud deployment
+- Distributed storage
+- Monitoring
+- Advanced caching
+- Load balancing
+- Horizontal scalability  
+These are planned enhancements rather than implemented features.  
+---
+================================================================================
+Chunk No: 17
+{'Header 1': 'HR Interview Questions'}
+## Tell me about InfiniStream project.  
+InfiniStream is a full-stack video upload and streaming application where React is used for the frontend and Spring Boot powers the backend. Instead of storing videos in traditional cloud storage, InfiniStream integrates with the Telegram Bot API for file storage while maintaining metadata in SQLite. The project gave me practical experience in backend engineering, external API integration, and full-stack application development.  
+---  
+## Why did you choose InfiniStream project?  
+I chose to build **InfiniStream** because I wanted a project involving backend architecture, external API integration, metadata management, and full-stack communication rather than a simple CRUD application.  
+---
+================================================================================
+Chunk No: 18
+{'Header 1': 'Which part did you enjoy the most?'}
+While developing **InfiniStream**, I enjoyed designing the backend architecture and integrating Telegram because it required understanding how different components communicate and how metadata drives the overall workflow.  
+---
+================================================================================
+Chunk No: 19
+{'Header 1': 'What was the biggest challenge?'}
+The biggest challenge in **InfiniStream** was designing a reliable upload workflow while keeping metadata synchronized with an external storage provider.  
+---
+================================================================================
+Chunk No: 20
+{'Header 1': 'What would you improve?'}
+Future improvements for **InfiniStream** include Docker deployment, Kubernetes orchestration, Redis caching, monitoring, and cloud infrastructure to make the platform more production-ready.  
+---
+================================================================================
+Chunk No: 1
+{'Header 1': 'ResumeIQ'}
+## Project Summary  
+ResumeIQ is an AI-powered resume analysis and job matching application developed using Python. The application automatically extracts information from resumes, analyzes job descriptions, compares candidate skills with job requirements, and generates an intelligent match score with detailed feedback.  
+ResumeIQ combines document processing, AI agents, resume parsing, job description analysis, and LLM-powered reasoning to help recruiters and job seekers evaluate resume compatibility more efficiently.  
+---
+================================================================================
+Chunk No: 2
+{'Header 1': 'ResumeIQ Problem Statement'}
+Recruiters often spend significant time manually reviewing resumes and comparing them with job descriptions. This process becomes difficult when handling large numbers of applications and maintaining consistent evaluation criteria.  
+ResumeIQ automates this workflow by extracting resume information, understanding job requirements, comparing candidate profiles with job descriptions, and generating an AI-assisted compatibility score.  
+---
+================================================================================
+Chunk No: 3
+{'Header 1': 'ResumeIQ Project Objectives'}
+The primary objectives of ResumeIQ are:  
+- Automate resume screening.
+- Extract structured information from resumes.
+- Analyze job descriptions.
+- Compare resumes with job requirements.
+- Generate AI-based compatibility scores.
+- Provide detailed candidate feedback.
+- Reduce manual resume evaluation.  
+---
+================================================================================
+Chunk No: 4
+{'Header 1': 'ResumeIQ My Responsibilities'}
+## Backend & AI  
+For ResumeIQ, I was responsible for:  
+- Designing the AI workflow.
+- Developing resume parsing agents.
+- Building job description parsing agents.
+- Creating resume scoring logic.
+- Implementing document extraction.
+- Designing application models.
+- Integrating LLM-based evaluation.
+- Managing application workflow.
+- Organizing the project into reusable modules.  
+---
+================================================================================
+Chunk No: 5
+{'Header 1': 'ResumeIQ Technology Stack'}
+ResumeIQ is developed using the following technologies.
+================================================================================
+Chunk No: 6
+{'Header 1': 'ResumeIQ Programming Language'}
+- Python  
+### ResumeIQ Artificial Intelligence  
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Agents  
+### Document Processing  
+- PDF Processing
+- DOCX Processing
+- Resume Text Extraction  
+### Project Structure  
+- Modular Python Architecture
+- Service Layer
+- Domain Models
+- Agent-Based Processing  
+---
+================================================================================
+Chunk No: 7
+{'Header 1': 'ResumeIQ System Architecture'}
+ResumeIQ follows a modular AI pipeline.  
+Resume  
+↓  
+Document Extraction  
+↓  
+Resume Parsing Agent  
+↓  
+Structured Resume Data  
+↓  
+Job Description Parsing Agent  
+↓  
+Job Requirement Data  
+↓  
+AI Matching Engine  
+↓  
+Resume Score  
+↓  
+Candidate Feedback  
+---
+================================================================================
+Chunk No: 8
+{'Header 1': 'ResumeIQ Resume Analysis Workflow'}
+The ResumeIQ resume analysis process follows these steps:  
+1. User uploads a resume.
+2. Resume text is extracted.
+3. AI agent identifies important candidate information.
+4. Structured resume data is generated.
+5. Resume information is prepared for comparison.  
+---
+================================================================================
+Chunk No: 9
+{'Header 1': 'ResumeIQ Job Description Analysis Workflow'}
+The ResumeIQ job analysis process follows these steps:  
+1. User provides a job description.
+2. AI extracts required skills.
+3. Required qualifications are identified.
+4. Job requirements are structured.
+5. Job profile is prepared for matching.  
+---
+================================================================================
+Chunk No: 10
+{'Header 1': 'ResumeIQ Resume Matching Workflow'}
+ResumeIQ compares resumes with job descriptions by:  
+1. Parsing candidate information.
+2. Parsing job requirements.
+3. Comparing technical skills.
+4. Comparing experience.
+5. Comparing education.
+6. Evaluating compatibility.
+7. Generating an AI-based match score.
+8. Producing candidate feedback.  
+---
+================================================================================
+Chunk No: 11
+{'Header 1': 'ResumeIQ Major Features'}
+ResumeIQ provides the following features:  
+- Resume Parsing
+- Job Description Parsing
+- AI Resume Analysis
+- Resume Scoring
+- Candidate Matching
+- Structured Resume Extraction
+- AI Feedback Generation
+- Automated Resume Screening  
+---
+================================================================================
+Chunk No: 12
+{'Header 1': 'ResumeIQ AI Components'}
+ResumeIQ is organized into multiple AI components including:  
+- Resume Parsing Agent
+- Job Description Parsing Agent
+- Resume Scoring Agent
+- Document Extraction Service  
+Each component has a dedicated responsibility, making the system modular and maintainable.  
+---
+================================================================================
+Chunk No: 13
+{'Header 1': 'ResumeIQ Challenges Solved'}
+While developing ResumeIQ, I solved several engineering challenges:  
+- Extracting text from different resume formats.
+- Structuring unstructured resume data.
+- Understanding job descriptions.
+- Comparing resumes with job requirements.
+- Designing reusable AI workflows.
+- Organizing multiple AI agents.
+- Generating meaningful compatibility scores.  
+---
+================================================================================
+Chunk No: 14
+{'Header 1': 'ResumeIQ What I Learned'}
+Developing ResumeIQ improved my understanding of:  
+- Python application architecture.
+- AI agent design.
+- Prompt engineering.
+- Resume parsing.
+- Job description analysis.
+- LLM integration.
+- Document processing.
+- AI workflow orchestration.
+- Modular software design.  
+---
+================================================================================
+Chunk No: 15
+{'Header 1': 'ResumeIQFuture Improvements'}
+The following enhancements are planned for ResumeIQ:  
+- Retrieval-Augmented Generation (RAG).
+- Vector database integration.
+- Semantic resume search.
+- Multi-resume ranking.
+- Recruiter dashboard.
+- Candidate recommendation system.
+- Interview question generation.
+- ATS compatibility analysis.
+- Skill gap analysis.
+- Cloud deployment.
+- Docker support.
+- Authentication and user management.  
+---
+================================================================================
+Chunk No: 16
+{'Header 1': 'ResumeIQ Business Value'}
+ResumeIQ reduces the manual effort required for resume screening by automating document analysis, candidate evaluation, and resume-job matching. The system helps recruiters process applications more efficiently while providing job seekers with structured feedback about their resumes.  
+---
