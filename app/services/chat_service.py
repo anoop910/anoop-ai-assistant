@@ -26,6 +26,7 @@ class ChatService:
         user_id = user_id
 
         conversation_id = user_id
+        print(user_id)
 
         # ==========================================
         # GET PREVIOUS CHAT
