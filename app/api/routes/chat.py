@@ -17,6 +17,6 @@ def chat(request: ChatRequest):
 
     return StreamingResponse(response, media_type="text/plain")
 
-@router.get("/ok")
+@router.head("/ok")
 def health_checker():
     return "App Running...."
